@@ -1,4 +1,4 @@
-# myTorch
+# myTorch: This is part of my CMU 11785 course 
 
 a custom light deep learning library developed from scratch similar to PyTorch or Tensorflow that includes :
 1) Autograd: a functioning Autograd library
