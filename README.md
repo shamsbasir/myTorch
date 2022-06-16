@@ -7,3 +7,5 @@ a custom light deep learning library developed from scratch similar to PyTorch o
 4)  CNNs as Scanning MLPs: converting a linear scanning MLP to a CNN
 5)  RNN
 6)  GRU
+
+Note: For CMU students, please do not use this code in your projects or work. 
